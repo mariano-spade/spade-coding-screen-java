@@ -1,0 +1,802 @@
+[
+  {
+    "requestId": "5ff09d83-5f11-4a0f-bd16-b01643a110f3",
+    "merchantName": "TruBoba Cafe",
+    "address": "1900 University Blvd Ste 210",
+    "city": "Round Rock",
+    "region": "TX",
+    "postalCode": "78665"
+  },
+  {
+    "requestId": "913405dc-acaf-43cb-9d80-dd1294490953",
+    "merchantName": "La Madeleine French Country Cafe",
+    "address": "11200 Broadway St Ste 1600",
+    "city": "Pearland",
+    "region": "TX",
+    "postalCode": "77584"
+  },
+  {
+    "requestId": "9b45eb20-6fff-454a-af8b-c2580a38c000",
+    "merchantName": "Karahi Boys",
+    "address": "16535 Lexington Blvd",
+    "city": "Sugar Land",
+    "region": "TX",
+    "postalCode": "77479"
+  },
+  {
+    "requestId": "abe35192-41aa-3fce-87cf-4b3fff35ac02",
+    "merchantName": "Fuji at Ink Block",
+    "address": "352b Harrison Ave",
+    "city": "Boston",
+    "region": "MA",
+    "postalCode": "02118"
+  },
+  {
+    "requestId": "eca92938-0c12-4320-be1d-66a4c1a98e3c",
+    "merchantName": "WALGREENS #19978",
+    "address": "4433 Dewey Ave",
+    "city": "Rochester",
+    "region": "NY",
+    "postalCode": "14616"
+  },
+  {
+    "requestId": "d1ced246-20c3-44b9-ba4b-145bb7f9ef86",
+    "merchantName": "One Bite Cafe",
+    "address": "1026 Ne 65th St",
+    "city": "Seattle",
+    "region": "WA",
+    "postalCode": "98115"
+  },
+  {
+    "requestId": "99841e48-131f-4aa1-be37-fb251a4200df",
+    "merchantName": "WALGREENS #1995",
+    "address": "40420 Murrieta Hot Springs Rd",
+    "city": "Murrieta",
+    "region": "CA",
+    "postalCode": "92563"
+  },
+  {
+    "requestId": "7c24e81b-700d-4362-861c-a3fea5338add",
+    "merchantName": "Zoup! Eatery",
+    "address": "29177 Northwestern Hwy",
+    "city": "Southfield",
+    "region": "MI",
+    "postalCode": "48034"
+  },
+  {
+    "requestId": "554f0864-5460-4fb4-b136-791210fa0b6a",
+    "merchantName": "Coconut Jelly King",
+    "address": "66 S Dobson Rd",
+    "city": "Mesa",
+    "region": "AZ",
+    "postalCode": "85202"
+  },
+  {
+    "requestId": "7a816efc-ffb3-4748-b19a-d84933c8d764",
+    "merchantName": "Hyderabad House- Castleton",
+    "address": "8540 Castleton Corner Dr",
+    "city": "Indianapolis",
+    "region": "IN",
+    "postalCode": "46250"
+  },
+  {
+    "requestId": "7b0ed288-a7b8-4b9f-a436-d7bba95ba1b9",
+    "merchantName": "WALGREENS #15403",
+    "address": "18470 Sw Farmington Rd",
+    "city": "Beaverton",
+    "region": "OR",
+    "postalCode": "97007"
+  },
+  {
+    "requestId": "1c96ac7f-6221-4761-90aa-c0d63f2a413d",
+    "merchantName": "Aviva Brick Oven",
+    "address": "16099 Perry Hwy",
+    "city": "Warrendale",
+    "region": "PA",
+    "postalCode": "15086"
+  },
+  {
+    "requestId": "6bb401f6-11a8-341c-9fa3-954ac77e1798",
+    "merchantName": "Syrup-Downtown",
+    "address": "999 18th St Ste 105",
+    "city": "Denver",
+    "region": "CO",
+    "postalCode": "80202"
+  },
+  {
+    "requestId": "c12a1b6d-e58f-4b2a-8b22-e56bbf25338b",
+    "merchantName": "El Zocalo Supermarket",
+    "address": "452 Us Highway 17 92 N",
+    "city": "Haines City",
+    "region": "FL",
+    "postalCode": "33844"
+  },
+  {
+    "requestId": "57ccd849-8342-4b24-a3c0-6022311e9330",
+    "merchantName": "WALGREENS #9650",
+    "address": "699 Wallace Rd Nw",
+    "city": "Salem",
+    "region": "OR",
+    "postalCode": "97304"
+  },
+  {
+    "requestId": "f7f75642-3f68-45e9-a2c9-b1a8c40b57bf",
+    "merchantName": "Eastside Bistro",
+    "address": "12001 Avalon Lake Dr",
+    "city": "Orlando",
+    "region": "FL",
+    "postalCode": "32828"
+  },
+  {
+    "requestId": "e66277d5-cf43-33b8-a053-e419c5579c3a",
+    "merchantName": "Black Rabbit Rose",
+    "address": "1719 N Hudson Ave",
+    "city": "Los Angeles",
+    "region": "CA",
+    "postalCode": "90028"
+  },
+  {
+    "requestId": "3910f1dc-0cfd-464a-849a-c8741742cce1",
+    "merchantName": "Humbowl",
+    "address": "2975 College Ave",
+    "city": "Berkeley",
+    "region": "CA",
+    "postalCode": "94705"
+  },
+  {
+    "requestId": "4b06f169-3869-4b34-a7f1-bc2fe64a5984",
+    "merchantName": "Geo's Fine Wine & Champagne",
+    "address": "1730 E 7th Ave",
+    "city": "Tampa",
+    "region": "FL",
+    "postalCode": "33605"
+  },
+  {
+    "requestId": "1d2795bf-6bfe-44e5-b6f9-38a44f86117b",
+    "merchantName": "Alberts Mandarin Gourmet",
+    "address": "269 New York Ave",
+    "city": "Huntington",
+    "region": "NY",
+    "postalCode": "11743"
+  },
+  {
+    "requestId": "f9d0ea9b-d392-47c4-b398-e2b7b01e33ee",
+    "merchantName": "Alpaca Peruvian Charcoal Chicken",
+    "address": "4614 Capital Blvd",
+    "city": "Raleigh",
+    "region": "NC",
+    "postalCode": "27604"
+  },
+  {
+    "requestId": "0d81aa89-89de-4110-807a-c41e25876888",
+    "merchantName": "Lemongrass Sushi & Thai Restaurant",
+    "address": "220 Veterans Parkway",
+    "city": "Murfreesboro",
+    "region": "TN",
+    "postalCode": "37128"
+  },
+  {
+    "requestId": "d98caea0-66d5-4483-88ad-4bd8274981bd",
+    "merchantName": "Treva",
+    "address": "980 Farmington Ave",
+    "city": "West Hartford",
+    "region": "CT",
+    "postalCode": "06107"
+  },
+  {
+    "requestId": "3d4d18c1-d617-3743-9d89-3b46b648b291",
+    "merchantName": "Aura Bar and Lounge",
+    "address": "5247 Wisconsin Ave Nw",
+    "city": "Washington",
+    "region": "DC",
+    "postalCode": "20015"
+  },
+  {
+    "requestId": "9f21643e-02eb-4fb9-9b09-86e2ec76a04f",
+    "merchantName": "Paradiso Restaurant and Pizzeria",
+    "address": "1502 N Semoran Blvd # 100",
+    "city": "Orlando",
+    "region": "FL",
+    "postalCode": "32807"
+  },
+  {
+    "requestId": "7b508720-9ff8-4e0a-abfb-bd50e120c71f",
+    "merchantName": "WALGREENS #19977",
+    "address": "104 Genesee St",
+    "city": "Oneida",
+    "region": "NY",
+    "postalCode": "13421"
+  },
+  {
+    "requestId": "226136d9-7566-478a-b73b-8771c231282c",
+    "merchantName": "My Thai",
+    "address": "1230 4th St",
+    "city": "San Rafael",
+    "region": "CA",
+    "postalCode": "94901"
+  },
+  {
+    "requestId": "13890726-10d9-4227-bcf8-42858bfe4d07",
+    "merchantName": "WALGREENS #2941",
+    "address": "3593 Cleveland Ave",
+    "city": "Fort Myers",
+    "region": "FL",
+    "postalCode": "33901"
+  },
+  {
+    "requestId": "8ec85ecb-9015-4bf2-8064-9e82d3f2e8c0",
+    "merchantName": "Slow Hand BBQ",
+    "address": "1941 Oak Park Blvd",
+    "city": "Pleasant Hill",
+    "region": "CA",
+    "postalCode": "94523"
+  },
+  {
+    "requestId": "bc09cf94-ef2d-3cb8-bdcd-5e2c1b2c594a",
+    "merchantName": "Matsunori",
+    "address": "151 Allen St",
+    "city": "New York",
+    "region": "NY",
+    "postalCode": "10002"
+  },
+  {
+    "requestId": "01da3bc8-a209-4499-a08f-9fabff87815a",
+    "merchantName": "Herbs Indian Restaurant and Bar",
+    "address": "4401 Little Rd",
+    "city": "Arlington",
+    "region": "TX",
+    "postalCode": "76016"
+  },
+  {
+    "requestId": "9728fb1e-e8fa-39fe-8e52-8421729ec131",
+    "merchantName": "Babette",
+    "address": "2033 San Pablo Ave",
+    "city": "Berkeley",
+    "region": "CA",
+    "postalCode": "94702"
+  },
+  {
+    "requestId": "4872d165-96fa-4f0f-8b96-a4cc57df853d",
+    "merchantName": "WALGREENS #1450",
+    "address": "4101 1st Ave",
+    "city": "Lyons",
+    "region": "IL",
+    "postalCode": "60534"
+  },
+  {
+    "requestId": "adaa0ddf-0467-485d-9bbf-11e80a00a1bf",
+    "merchantName": "Pei Wei Asian Kitchen",
+    "address": "701 W Mcdowell Rd Ste 101",
+    "city": "Phoenix",
+    "region": "AZ",
+    "postalCode": "85007"
+  },
+  {
+    "requestId": "9ee49a16-9c86-4a91-bd15-9bb7dabe3f3c",
+    "merchantName": "WALGREENS #17502",
+    "address": "119 Washington St",
+    "city": "Norwell",
+    "region": "MA",
+    "postalCode": "02061"
+  },
+  {
+    "requestId": "7d0860d0-a847-45b3-925b-f2eff202f916",
+    "merchantName": "WALGREENS #4001",
+    "address": "280 Sw Port St Lucie Blvd",
+    "city": "Port Saint Lucie",
+    "region": "FL",
+    "postalCode": "34984"
+  },
+  {
+    "requestId": "a9f27bf9-515b-4d9f-8921-78fae1d8cf05",
+    "merchantName": "La Fiesta Grande",
+    "address": "10916 Black Dog Ln",
+    "city": "Charlotte",
+    "region": "NC",
+    "postalCode": "28214"
+  },
+  {
+    "requestId": "d0ec4d68-d5fa-36a0-8072-63610ace9d8b",
+    "merchantName": "Prime on Peachtree",
+    "address": "1035 Peachtree St Ne",
+    "city": "Atlanta",
+    "region": "GA",
+    "postalCode": "30309"
+  },
+  {
+    "requestId": "ffca73da-5e1b-4574-a33b-794799529ad0",
+    "merchantName": "WALGREENS #4951",
+    "address": "4006 E Bell Rd",
+    "city": "Phoenix",
+    "region": "AZ",
+    "postalCode": "85032"
+  },
+  {
+    "requestId": "6e5a7100-1dc4-445e-b591-c7285225f0dc",
+    "merchantName": "Hillcrust Pizza",
+    "address": "127 University Ave",
+    "city": "San Diego",
+    "region": "CA",
+    "postalCode": "92103"
+  },
+  {
+    "requestId": "397e6eb5-9e33-4be6-a978-29630729f9f4",
+    "merchantName": "Chelsea Tavern",
+    "address": "821 N Market St",
+    "city": "Wilmington",
+    "region": "DE",
+    "postalCode": "19801"
+  },
+  {
+    "requestId": "d9073c40-fba6-45b6-9124-dec51a16b651",
+    "merchantName": "Dickey's Barbecue Pit",
+    "address": "752 Gardner Rd",
+    "city": "Springboro",
+    "region": "OH",
+    "postalCode": "45066"
+  },
+  {
+    "requestId": "f0079209-1986-4aff-a520-165ef2bb4b59",
+    "merchantName": "WALGREENS #4017",
+    "address": "8521 Highway 107",
+    "city": "Sherwood",
+    "region": "AR",
+    "postalCode": "72120"
+  },
+  {
+    "requestId": "ff826b5f-bb04-4b80-803e-ef903649bcf3",
+    "merchantName": "Whiskey River",
+    "address": "38 N Division St",
+    "city": "Peekskill",
+    "region": "NY",
+    "postalCode": "10566"
+  },
+  {
+    "requestId": "4cab59e5-fbff-469f-a7ab-59065a1cec77",
+    "merchantName": "Flat Top Grill",
+    "address": "30 S Wabash Ave",
+    "city": "Chicago",
+    "region": "IL",
+    "postalCode": "60603"
+  },
+  {
+    "requestId": "3bd4a870-4e9a-458d-af83-7fc2d89da716",
+    "merchantName": "Wing Shack-Garden City",
+    "address": "2704 8th Ave",
+    "city": "Garden City",
+    "region": "CO",
+    "postalCode": "80631"
+  },
+  {
+    "requestId": "13044873-dd8a-4f68-b430-fcc7c0f05517",
+    "merchantName": "Pizza Ranch-Pella",
+    "address": "508 Main St",
+    "city": "Pella",
+    "region": "IA",
+    "postalCode": "50219"
+  },
+  {
+    "requestId": "fe89fd8e-d7f5-4b86-a852-d88001af0038",
+    "merchantName": "WALGREENS #15440",
+    "address": "5005 Mackay Rd",
+    "city": "Jamestown",
+    "region": "NC",
+    "postalCode": "27282"
+  },
+  {
+    "requestId": "9783156a-80ce-44a9-a825-e5af5657bff3",
+    "merchantName": "Common Space Brewery",
+    "address": "3411 W El Segundo Blvd",
+    "city": "Hawthorne",
+    "region": "CA",
+    "postalCode": "90250"
+  },
+  {
+    "requestId": "f657c0dd-c3bd-424e-83b1-26d1dce1b82c",
+    "merchantName": "WALGREENS #1770",
+    "address": "2625 Adlai Stevenson Dr",
+    "city": "Springfield",
+    "region": "IL",
+    "postalCode": "62703"
+  },
+  {
+    "requestId": "73a31de5-1567-4857-bbdf-ab1f71ab4921",
+    "merchantName": "Palio's Pizza Cafe On Tap",
+    "address": "3673 Western Center Blvd",
+    "city": "Fort Worth",
+    "region": "TX",
+    "postalCode": "76137"
+  },
+  {
+    "requestId": "415618c6-30aa-493f-8cd6-eeb50548c5c1",
+    "merchantName": "India Palace",
+    "address": "493 Amherst St",
+    "city": "Nashua",
+    "region": "NH",
+    "postalCode": "03063"
+  },
+  {
+    "requestId": "ead620cf-6be3-44e7-9b5b-bc17ee15c71a",
+    "merchantName": "Duane Reade #14239",
+    "address": "721 9th Ave",
+    "city": "New York",
+    "region": "NY",
+    "postalCode": "10019"
+  },
+  {
+    "requestId": "c933f2eb-005b-405b-a3b7-073d1d989ef6",
+    "merchantName": "Burger One-Ann Arbor",
+    "address": "1771 Plymouth Rd",
+    "city": "Ann Arbor",
+    "region": "MI",
+    "postalCode": "48105"
+  },
+  {
+    "requestId": "e099e73a-94d0-38bf-b898-b187c1aa4c37",
+    "merchantName": "Fish & Bird Sousaku Izakaya",
+    "address": "2451 Shattuck Ave",
+    "city": "Berkeley",
+    "region": "CA",
+    "postalCode": "94704"
+  },
+  {
+    "requestId": "d387f02b-fd6c-4293-b081-0ed2ac875431",
+    "merchantName": "Hardee's - St. Petersburg",
+    "address": "3795 34th St N",
+    "city": "St Petersburg",
+    "region": "FL",
+    "postalCode": "33713"
+  },
+  {
+    "requestId": "a8ac07ee-a422-48c5-9b3c-d08ec3891ccf",
+    "merchantName": "WALGREENS #12979",
+    "address": "3501 Highway 153",
+    "city": "Greenville",
+    "region": "SC",
+    "postalCode": "29611"
+  },
+  {
+    "requestId": "828456a5-abbe-401e-b85d-7c1dd2390ef0",
+    "merchantName": "Phoenicia",
+    "address": "588 S Old Woodward",
+    "city": "Birmingham",
+    "region": "MI",
+    "postalCode": "48009"
+  },
+  {
+    "requestId": "865c8128-9616-4b6b-a2ff-ce20ddbe54e7",
+    "merchantName": "Pho Van",
+    "address": "2120 Penn Ave",
+    "city": "Pittsburgh",
+    "region": "PA",
+    "postalCode": "15222"
+  },
+  {
+    "requestId": "3d4eca0c-6e80-494b-a415-33cecf667efe",
+    "merchantName": "Mario's Pizza - Cloverdale",
+    "address": "2205 Cloverdale Ave",
+    "city": "Winston-salem",
+    "region": "NC",
+    "postalCode": "27103"
+  },
+  {
+    "requestId": "61b61fbc-bec5-4202-9cef-3149cb93fe64",
+    "merchantName": "WALGREENS #9496",
+    "address": "1196 Old Country Rd",
+    "city": "Riverhead",
+    "region": "NY",
+    "postalCode": "11901"
+  },
+  {
+    "requestId": "5653553b-3787-4e55-b2e0-44674f19e27b",
+    "merchantName": "Wally's Beverly Hills",
+    "address": "434 N Camden Dr",
+    "city": "Beverly Hills",
+    "region": "CA",
+    "postalCode": "90210"
+  },
+  {
+    "requestId": "5ec2bbb4-4afc-412d-b1e0-75e46b236103",
+    "merchantName": "Bunny's Onion Burgers",
+    "address": "1023 South Meridian Ave",
+    "city": "Oklahoma City",
+    "region": "OK",
+    "postalCode": "73108"
+  },
+  {
+    "requestId": "64b97b30-380d-431c-9d03-89f039a1bc0d",
+    "merchantName": "3 Margaritas Mexican Restaurant",
+    "address": "69 Fenton Plz",
+    "city": "Fenton",
+    "region": "MO",
+    "postalCode": "63026"
+  },
+  {
+    "requestId": "f33be4fc-cad3-4762-b5e9-c943792404a1",
+    "merchantName": "Mic Drop Comedy",
+    "address": "8878 Clairemont Mesa Blvd",
+    "city": "San Diego",
+    "region": "CA",
+    "postalCode": "92123"
+  },
+  {
+    "requestId": "3eb17c43-5c56-456a-acba-84dd0f21f3e2",
+    "merchantName": "Vino Italian Bistro",
+    "address": "138 Battlefield Blvd S",
+    "city": "Chesapeake",
+    "region": "VA",
+    "postalCode": "23322"
+  },
+  {
+    "requestId": "21335328-c286-47f4-9758-499538f1071b",
+    "merchantName": "WALGREENS #17014",
+    "address": "3534 Mt Holly Huntersville Rd",
+    "city": "Charlotte",
+    "region": "NC",
+    "postalCode": "28216"
+  },
+  {
+    "requestId": "d9be120f-a1fa-4cf8-8783-42ff14ca55e9",
+    "merchantName": "WALGREENS #11837",
+    "address": "1138 Sabbath Home Rd Sw",
+    "city": "Holden Beach",
+    "region": "NC",
+    "postalCode": "28462"
+  },
+  {
+    "requestId": "2c0d0522-a444-445f-9a1e-2ee1806b2981",
+    "merchantName": "Joe's New York Pizza",
+    "address": "7321 E Shoeman Ln",
+    "city": "Scottsdale",
+    "region": "AZ",
+    "postalCode": "85251"
+  },
+  {
+    "requestId": "3e3d0662-0f33-31c6-a39a-9f814e3e6928",
+    "merchantName": "Shan-A-Punjab",
+    "address": "500 Harvard St",
+    "city": "Brookline",
+    "region": "MA",
+    "postalCode": "02446"
+  },
+  {
+    "requestId": "ee62f021-f273-4484-aefd-4360897d2515",
+    "merchantName": "Skyybox Grill & Bar",
+    "address": "6720 S 168th St",
+    "city": "Omaha",
+    "region": "NE",
+    "postalCode": "68135"
+  },
+  {
+    "requestId": "76812c9d-da34-4033-972d-37fb63eb4bf1",
+    "merchantName": "WALGREENS #6987",
+    "address": "355 S Wilcox St",
+    "city": "Castle Rock",
+    "region": "CO",
+    "postalCode": "80104"
+  },
+  {
+    "requestId": "9c34586b-2d0d-4e94-bda2-0cd81b8d91c2",
+    "merchantName": "Hamilton Luncheonette",
+    "address": "606 Hamilton St",
+    "city": "Somerset",
+    "region": "NJ",
+    "postalCode": "08873"
+  },
+  {
+    "requestId": "4e8be0e1-c615-448c-a431-d57214c2d9b6",
+    "merchantName": "Mario's Restaurant",
+    "address": "2342 Arthur Ave",
+    "city": "Bronx",
+    "region": "NY",
+    "postalCode": "10458"
+  },
+  {
+    "requestId": "b79604b4-ecab-4cb8-9d1e-59273a845d9f",
+    "merchantName": "WALGREENS #9500",
+    "address": "705 Boyd Rd",
+    "city": "Azle",
+    "region": "TX",
+    "postalCode": "76020"
+  },
+  {
+    "requestId": "0340d893-d23c-4979-8e4a-4140641ea917",
+    "merchantName": "WALGREENS #5771",
+    "address": "17522 Beach Blvd",
+    "city": "Huntington Beach",
+    "region": "CA",
+    "postalCode": "92647"
+  },
+  {
+    "requestId": "91cc04ae-695c-4afa-abc5-3e1499df47e6",
+    "merchantName": "Coyote Ugly Saloon",
+    "address": "121 E California Ave",
+    "city": "Oklahoma City",
+    "region": "OK",
+    "postalCode": "73104"
+  },
+  {
+    "requestId": "3f233492-0466-4347-9f63-30033d29e8f2",
+    "merchantName": "SoCal Cantina - Tuscaloosa",
+    "address": "2308 University Blvd",
+    "city": "Tuscaloosa",
+    "region": "AL",
+    "postalCode": "35401"
+  },
+  {
+    "requestId": "6faeacfe-a4fd-4dde-821f-bfb153374ea5",
+    "merchantName": "WALGREENS #3890",
+    "address": "940 Se Cesar E Chavez Blvd",
+    "city": "Portland",
+    "region": "OR",
+    "postalCode": "97214"
+  },
+  {
+    "requestId": "e7aa2e93-c942-4182-bded-6adbc1c9f806",
+    "merchantName": "WALGREENS #5695",
+    "address": "12211 W Hillsborough Ave",
+    "city": "Tampa",
+    "region": "FL",
+    "postalCode": "33635"
+  },
+  {
+    "requestId": "ff7ec27b-9870-4f6d-bf91-fbfc86947c94",
+    "merchantName": "WALGREENS #5340",
+    "address": "9998 Front Beach Rd",
+    "city": "P C Beach",
+    "region": "FL",
+    "postalCode": "32407"
+  },
+  {
+    "requestId": "79466d7e-6fd0-4bb5-aabd-15386f6edf9c",
+    "merchantName": "WALGREENS #13702",
+    "address": "397 Route 46 W",
+    "city": "Fairfield",
+    "region": "NJ",
+    "postalCode": "07004"
+  },
+  {
+    "requestId": "1c64a019-187b-436a-86cd-18a467bbd027",
+    "merchantName": "Press Quesadilla Grill",
+    "address": "773 E Foothill Blvd Ste A",
+    "city": "San Luis Obispo",
+    "region": "CA",
+    "postalCode": "93405"
+  },
+  {
+    "requestId": "63ebf778-dc00-4241-aa48-43b2283c0ac4",
+    "merchantName": "Inchin's Bamboo Garden - Orlando",
+    "address": "3900 W Town Center Blvd",
+    "city": "Orlando",
+    "region": "FL",
+    "postalCode": "32837"
+  },
+  {
+    "requestId": "7b13d64f-8a1e-4b30-968d-637c225f3255",
+    "merchantName": "UnderBar",
+    "address": "1701 1/2 Broadway St",
+    "city": "Vancouver",
+    "region": "WA",
+    "postalCode": "98663"
+  },
+  {
+    "requestId": "512ca294-238b-4b5e-ad12-aaf5c490974e",
+    "merchantName": "El Pollo Loco - E. St. - San Bernardino",
+    "address": "680 S E St",
+    "city": "San Bernardino",
+    "region": "CA",
+    "postalCode": "92408"
+  },
+  {
+    "requestId": "39c99c54-c4d4-4a21-9848-c8ec2c3312b3",
+    "merchantName": "Taco Veloz",
+    "address": "2431 S Cobb Dr Se",
+    "city": "Smyrna",
+    "region": "GA",
+    "postalCode": "30080"
+  },
+  {
+    "requestId": "309fa23d-5353-4bb9-b3b3-d06b3a182bae",
+    "merchantName": "La Madeleine French Country Cafe",
+    "address": "10001 Westheimer Rd Ste 2123",
+    "city": "Houston",
+    "region": "TX",
+    "postalCode": "77042"
+  },
+  {
+    "requestId": "68db0d02-302d-46fe-bcff-847af2220163",
+    "merchantName": "WALGREENS #19838",
+    "address": "1080 Bald Hill Rd",
+    "city": "Warwick",
+    "region": "RI",
+    "postalCode": "02886"
+  },
+  {
+    "requestId": "940ef73d-3174-4841-9c1a-ca4bd24f2e25",
+    "merchantName": "Pinecrest Bakery",
+    "address": "12101 S Dixie Hwy",
+    "city": "Miami",
+    "region": "FL",
+    "postalCode": "33156"
+  },
+  {
+    "requestId": "b6cb3fd8-ba25-40f7-a4e8-e5292c89e40a",
+    "merchantName": "Little River",
+    "address": "440 E 29th St",
+    "city": "New York",
+    "region": "NY",
+    "postalCode": "10016"
+  },
+  {
+    "requestId": "aa7870cf-5a4d-4e14-9699-8af5ae94f754",
+    "merchantName": "Casa Nova Grill",
+    "address": "264 Ferry St",
+    "city": "Newark",
+    "region": "NJ",
+    "postalCode": "07105"
+  },
+  {
+    "requestId": "92266c57-1125-3000-9093-cd81ee80ec26",
+    "merchantName": "Itaewon Pocha",
+    "address": "28 W 32nd St Fl 2",
+    "city": "New York",
+    "region": "NY",
+    "postalCode": "10001"
+  },
+  {
+    "requestId": "01187a74-bcf0-4c56-bd25-5868361627cf",
+    "merchantName": "POKE POKE - SUSHI UNROLLED",
+    "address": "4740 N Dale Mabry Hwy",
+    "city": "Tampa",
+    "region": "FL",
+    "postalCode": "33614"
+  },
+  {
+    "requestId": "89757e98-8032-4309-b3d7-6fd3bed426db",
+    "merchantName": "Ju Hachi Japanese Cuisine",
+    "address": "1730 S St",
+    "city": "Sacramento",
+    "region": "CA",
+    "postalCode": "95811"
+  },
+  {
+    "requestId": "211a2035-0c78-37bf-9320-9d6738075ed3",
+    "merchantName": "Momoya SoHo",
+    "address": "47 Prince St",
+    "city": "New York",
+    "region": "NY",
+    "postalCode": "10012"
+  },
+  {
+    "requestId": "5d99c3d7-a903-31a3-bb51-85a9d7766f01",
+    "merchantName": "Aqua New York",
+    "address": "902 Broadway",
+    "city": "New York",
+    "region": "NY",
+    "postalCode": "10010"
+  },
+  {
+    "requestId": "61321bad-f1e0-407e-a861-3095e6e82b6c",
+    "merchantName": "Shawarma King",
+    "address": "2713 N Bremen St",
+    "city": "Milwaukee",
+    "region": "WI",
+    "postalCode": "53212"
+  },
+  {
+    "requestId": "5db5a402-470f-4645-b496-bfcaecb7c3f9",
+    "merchantName": "Sweetwater 123",
+    "address": "123 W Richardson Ave",
+    "city": "Summerville",
+    "region": "SC",
+    "postalCode": "29483"
+  },
+  {
+    "requestId": "e4f92ff5-c9d5-4741-9a27-e7e1212713e7",
+    "merchantName": "WALGREENS #5002",
+    "address": "N83w15701 Appleton Ave",
+    "city": "Menomonee Falls",
+    "region": "WI",
+    "postalCode": "53051"
+  }
+]
