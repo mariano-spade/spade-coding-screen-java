@@ -1,0 +1,101 @@
+id,name,street_address,address_line_1,address_line_2,city1,state,country,postal_code,store_id,lat,lon,h3_cell,corporation_id
+4da34877-cfa0-35b8-87d2-3a85c3eb40d5,Talwar And Latka,493 Amherst St,,,Nashua,NH,USA,03063,,42.792872,-71.521697,8a2a30489d0ffff,608ebf45-7f18-3a22-99ec-8a268104ce8c
+5f8b9494-34e2-3095-bea1-bdc46c7d821d,Wing Shack 8th Avenue,2704 8th Ave,,,Garden City,CO,USA,80631,,40.394266,-104.690886,8a26aa0b6b57fff,8a7a3a02-1bb9-3e1b-82b1-2f460964b77c
+b51d43ba-d607-3f73-a092-e86fc922e263,Hardee's,3795 34th St N,,,Saint Petersburg,FL,USA,33713,1500782,27.806248,-82.678919,8a441a8228effff,febd21a3-ede4-4bdb-ba0f-3e0ef489755a
+881de59c-7b02-3673-b34b-d7be2bdcb3f0,Pei Wei Asian Diner,701 W McDowell Rd Ste 101,701 W McDowell Rd,Ste 101,Phoenix,AZ,USA,85007,1321,33.46547,-112.082977,8a29b6d3115ffff,07ab97ac-a734-3b0b-89c5-fc072fb51538
+d35b786c-1334-3b4f-8056-569a9b407b20,Coyote Ugly Saloon,121 E California Ave,,,Oklahoma City,OK,USA,73104,12,35.465669,-97.509774,8a26c18f2137fff,ddbb07a3-4726-331e-ac22-2d7a994a20c8
+fe9f0cec-6b8b-31ae-b20d-ac1589352ffb,Walgreens,3501 Highway 153,,,Greenville,SC,USA,29611,12979,34.788301,-82.483483,8a44dd186877fff,8eec1cf5-856a-48d5-80f7-1251a86a427e
+e67855df-f614-3e76-bbb4-7b59d131d299,Walgreens,4101 1st Ave,,,Lyons,IL,USA,60534,1450,41.815641,-87.833146,8a2664535c27fff,8eec1cf5-856a-48d5-80f7-1251a86a427e
+e387d30a-3ce8-3b41-bd07-26fdd2eff2a4,Geo's Lounge,1730 E 7th Ave,,,Tampa,FL,USA,33605,,27.960479,-82.43958,8a441a134d8ffff,5d6a17df-a385-3c16-800c-d1553d5be874
+bc8a8ecb-c6fb-3404-86c6-d5e09a30f8f1,Walgreens,1138 Sabbath Home Rd SW,,,Holden Beach,NC,USA,28462,11837,33.928883,-78.272117,8a2ad380cab7fff,8eec1cf5-856a-48d5-80f7-1251a86a427e
+302c0d2a-0bfc-36e1-b341-6d4d93b2d83c,Babette,2033 San Pablo Ave,,,Berkeley,CA,USA,94702,,37.868646,-122.291683,8a283081a797fff,56e3aed1-cd22-3328-ba2f-5d9344595cad
+65d8e115-4fcc-3518-8180-01177bcbd458,Pizza Ranch,508 Main St,,,Pella,IA,USA,50219,607049,41.403499,-92.916187,8a267671195ffff,27cba0de-e365-3951-9291-7396a8425a33
+a220afb1-a1ee-3a01-97ad-464f4d6a6cea,Walgreens,3534 Mt Holly Huntersville Rd,,,Charlotte,NC,USA,28216,17014,35.323112,-80.946094,8a44d879e41ffff,8eec1cf5-856a-48d5-80f7-1251a86a427e
+f963d4ca-43b4-358f-abac-e52c664372b4,Walgreens,699 Wallace Rd NW,,,Salem,OR,USA,97304,9650,44.948331,-123.051725,8a28f42cc177fff,8eec1cf5-856a-48d5-80f7-1251a86a427e
+4ff353c3-ae35-36ef-8b86-d196a414c347,My Thai Restaurant,1230 4th St,,,San Rafael,CA,USA,94901,,37.973488,-122.530183,8a2830ba274ffff,546ddc49-d679-3a3a-8132-ba4a76e38749
+ee831719-3abb-31d0-bf1e-62c9ef207b2e,Press Quesadilla G,773 E Foothill Blvd,,,San Luis Obispo,CA,USA,93405,,35.29341,-120.672602,8a29adc42a67fff,25a26deb-d4a2-3cda-ab68-6e020a50c3d2
+2058667d-a937-3663-96f2-cfd8d456d1f1,Black Rabbit Rose,1719 N Hudson Ave,,,Los Angeles,CA,USA,90028,,34.101778,-118.332168,8a29a1d6bd87fff,80e5a946-468b-3a9b-9a99-4d88e0fe83f0
+80875eee-24a2-3e78-8ab0-42bd0283c852,Albert's Mandarin Gour,269 New York Ave,,,Huntington,NY,USA,11743,,40.87363,-73.425734,8a2a10b91c1ffff,a702a2ed-55ae-33d3-bf96-b86b38b10e4d
+58b67d5d-4977-3e54-bd24-0d968c882335,Mic Drop Comedy C,8878 Clairemont Mesa Blvd,,,San Diego,CA,USA,92123,,32.83204,-117.137359,8a29a40160d7fff,ced8840a-ff78-34b3-8b59-4b4338661cf4
+ea5a2547-bc6d-331f-b020-de94a441f786,Skyybox,6720 S 168th St,,,Omaha,NE,USA,68135,,41.191985,-96.178343,8a260e2c5467fff,04756252-df8e-3efa-a120-984a66974990
+bb394784-f161-3351-a018-81d70ef21ef4,Walgreens,12211 W Hillsborough Ave,,,Tampa,FL,USA,33635,5695,28.02074,-82.623012,8a441a8c385ffff,8eec1cf5-856a-48d5-80f7-1251a86a427e
+4b22ad83-85d6-3144-898b-d27040118adc,Walgreens,4433 Dewey Ave,,,Rochester,NY,USA,14616,19978,43.252414,-77.647443,8a2b9904b657fff,8eec1cf5-856a-48d5-80f7-1251a86a427e
+2ad3bd60-3b17-3b4d-95c7-3734395f6e37,3 Margaritas Mexican Restaurant,69 Fenton Plz,,,Fenton,MO,USA,63026,,38.51141,-90.443855,8a26405b6377fff,b3f16eca-0ec6-3892-92b3-ca6fe921c22f
+412773a9-f4ec-3f41-b1f8-06451af9b2d5,Ju Hachi,1730 S St,,,Sacramento,CA,USA,95811,,38.567295,-121.487133,8a2832b0250ffff,77fbde63-e4e7-347e-a4e0-a1a9aa248e87
+22475e96-1d39-3a13-9d16-775d9b853ea9,Walgreens,17522 Beach Blvd,,,Huntington Beach,CA,USA,92647,5771,33.707949,-117.988513,8a29a579645ffff,8eec1cf5-856a-48d5-80f7-1251a86a427e
+9e8e01ad-489e-32e4-ad05-ed945a219544,Zoup Eatery 101,29177 Northwestern Hwy,,,Southfield,MI,USA,48034,,42.501482,-83.311429,8a2ab2ca2a2ffff,3560f93c-5527-3077-8f3a-f49b6a7f239b
+1e7f8891-d86b-3c24-98f5-3e439a1553e9,Hyderabad House,8540 Castleton Corner Dr,,,Indianapolis,IN,USA,46250,,39.910689,-86.075058,8a2a924d2ceffff,df2c703e-975d-3ec7-865e-d1dc993f12c8
+88b7199f-694b-33f2-8893-87a2f18fc36c,El Taco Veloz,2431 S Cobb Dr SE,,,Smyrna,GA,USA,30080,,33.893883,-84.537787,8a44c1acd48ffff,a1dbf8c1-e453-3b0f-9a83-701ef9b56c23
+2770d474-4afb-3cb7-b2bb-4035bc999fa5,Pallio's Pizza Cafe,3673 Western Center Blvd Ste 503,3673 Western Center Blvd,Ste 503,Fort Worth,TX,USA,76137,,32.861828,-97.302427,8a26caa6a047fff,531079dc-e6ac-3f7c-b790-cfae6606425d
+b326e36f-5ae7-36a9-b140-5e493e14ce78,Apq Beverly Hillsca O,9630 Santa Monica Blvd,,,Beverly Hills,CA,USA,90210,,34.069339,-118.405776,8a29a1998c8ffff,882ce2aa-d52a-3c71-8186-70ee673bf0d5
+8d1a7906-f126-3a09-86a8-c8b54911c9d2,Pho Van,2120 Penn Ave,,,Pittsburgh,PA,USA,15222,,40.451915,-79.98238,8a2a8473229ffff,254011bd-47e8-3d29-8a03-5e75a828ff0e
+f0d14c48-22e2-3a6b-b219-06c344cd1b9d,Inchin's Bamboo Garden,3900 W Town Center Blvd,,,Orlando,FL,USA,32837,,28.361733,-81.423531,8a44a910d42ffff,3680d037-9aec-33b0-804d-f9234b71dbab
+6eb120ea-9e8f-38f2-bbfc-451d28ad5605,Walgreens,119 Washington St,,,Norwell,MA,USA,02061,17502,42.171139,-70.876581,8a2a302d8c97fff,8eec1cf5-856a-48d5-80f7-1251a86a427e
+54618fc1-fb00-39cd-b622-2e3efe4ac592,Socal Cantina - A,2308 University Blvd,,,Tuscaloosa,AL,USA,35401,,33.210454,-87.567496,8a44ed74b117fff,6f3543aa-910b-34a0-9308-79d8b41f3a29
+deec5499-3a87-3392-9e37-7bb598e659a3,Syrup Downtown,999 18th St Ste 105,999 18th St,Ste 105,Denver,CO,USA,80202,,39.748871,-104.991758,8a268cda8d77fff,53199aca-2620-3022-9a6f-1841e1d3d93f
+93b4baa4-4200-386e-a449-2f7abb46b3b7,Frankies Restauran,2376 Arthur Ave,,,Bronx,NY,USA,10458,,40.85488,-73.887973,8a2a100acb2ffff,27ceb5f4-ce07-31a4-9997-30e99cdd19c1
+593e4f3d-62db-3120-ac3d-85024d0be1dc,Chelsea Tavern,821 N Market St,,,Wilmington,DE,USA,19801,,39.744087,-75.5492,8a2aacaaa38ffff,2b19ba30-068d-375f-95b7-0b5b84c544be
+b319bc19-7e4f-38b5-994c-f34b0e53ab80,HillCrust Pizza,127 University Ave,,,San Diego,CA,USA,92103,,32.748109,-117.163412,8a29a41a90e7fff,e7940355-5b15-3246-b334-2ff30741b5fc
+d9645ff5-513c-3d21-b3b7-64c925746489,Fuji at Ink Block,352B Harrison Ave Ste B,352B Harrison Ave,Ste B,Boston,MA,USA,02118,,42.345102,-71.063318,8a2a30661687fff,e24056fb-6c05-319b-b375-6ccc3804815b
+58a536e0-3e3e-35d3-9f4c-24e1846a35f4,Herbs Indian Rest,4401 Little Rd,,,Arlington,TX,USA,76016,,32.676301,-97.196228,8a26cbc24617fff,39271e25-8194-32ab-80a8-75632cd19457
+d1ebf6ab-e611-31f4-8532-8a65283a5503,Dickey's Barbeque Pit,752 Gardner Rd,,,Springboro,OH,USA,45066,,39.577445,-84.231934,8a2a93983047fff,86e0595b-26df-3fac-9f38-65631dad0bf6
+6517c4d4-7ee9-396e-8b79-506d00e7b28f,Joe's New York Pizza,7321 E Shoeman Ln # NOT,7321 E Shoeman Ln,# NOT,Scottsdale,AZ,USA,85251,,33.500553,-111.923303,8a29b6da6d0ffff,b030772e-d4aa-322c-aba9-d023c676d1a3
+cb609265-0f4a-39a3-ab50-658722faa8fd,Flat Top Grill,30 S Wabash Ave,,,Chicago,IL,USA,60603,,41.881642,-87.626337,8a2664c1a82ffff,5a214be6-b27f-3644-a586-2474549a9eb3
+7bb3a83f-4056-3731-b295-3ac9172fdce2,Mario's Pizza,2205 Cloverdale Ave,,,Winston Salem,NC,USA,27103,,36.09182,-80.274666,8a2a8b4d1787fff,f822b012-55dc-391e-9c23-9fc4f6cd1b72
+aa16ba6b-642a-3c66-ae85-051e0bfd4ec3,Walgreens,705 Boyd Rd,,,Azle,TX,USA,76020,9500,32.903359,-97.544244,8a26caa1bc67fff,8eec1cf5-856a-48d5-80f7-1251a86a427e
+faee933e-11a9-34bf-a72c-5dbe6a60032d,El Zocalo Supermarke,452 Highway 1792,,,Haines City,FL,USA,33844,,28.113394,-81.618692,8a44a982eceffff,94db31fa-99ba-34c7-aad3-69bccf51ec4c
+756df93d-708d-3880-b60f-503530118e80,Whiskey River,38 N Division St,,,Peekskill,NY,USA,10566,,41.291357,-73.920195,8a2a10c3028ffff,6771c871-8297-3a3e-acb6-2fb8628e4a51
+19ca2f6b-8cbb-3fcc-afb1-5ce7597fb85a,La Fiesta Grande Mexican Restaurant,10916 Black Dog Ln,,,Charlotte,NC,USA,28214,,35.336316,-80.961896,8a44d8798587fff,f8e402d7-554f-3a00-831a-0d0ad6ec363e
+b6e3e9ce-da63-3ea3-8820-f707af2dc5eb,Aviva Brick Oven,16099 Perry Hwy # Not,,,Warrendale,PA,USA,15086,,40.654853,-80.087242,8a2a8442c057fff,f29ebcf5-52fb-3fbb-b219-62aaf62e9af6
+99415205-2a94-323c-9ab2-29dd6b2c96eb,Walgreens,104 Genesee St,,,Oneida,NY,USA,13421,19977,43.079494,-75.641221,8a2b8bca5d47fff,8eec1cf5-856a-48d5-80f7-1251a86a427e
+eed19211-0c37-3fd1-8a81-aa4145a8ea47,UnderBar,1701 1/2 Broadway St,,,Vancouver,WA,USA,98663,,45.63426,-122.670199,8a28f00e671ffff,68557430-10b4-3030-af9b-684567ce11aa
+2d6772e4-7d8d-3d8e-94e8-a7e1822e03cf,Coconut Jelly King,66 S Dobson Rd Ste 104,66 S Dobson Rd,Ste 104,Mesa,AZ,USA,85202,,33.413719,-111.876101,8a48eba55577fff,a9a54e74-3795-3610-891a-2d018790c18c
+8255047e-406b-30d9-a3b7-23423a08e82c,Sweetwater One Twenty Three,123 W Richardson Ave,,,Summerville,SC,USA,29483,,33.01956,-80.17647,8a44d028bc17fff,2dbb7de1-ebf9-3772-b6cb-5b1e96e30d7d
+ae50a68f-2faa-32cd-b69c-8de139b46964,Walgreens,397 Route 46 W,,,Fairfield,NJ,USA,07004,13702,40.883106,-74.290965,8a2a1045610ffff,8eec1cf5-856a-48d5-80f7-1251a86a427e
+69a42a38-ad98-3ca0-98d7-ad18ef8c8b05,Eastside Bistro,12001 Avalon Lake Dr Ste F,12001 Avalon Lake Dr,Ste F,Orlando,FL,USA,32828,,28.510342,-81.155404,8a44a90824cffff,9912a33b-332f-3e1c-b293-1246e129708c
+3606a071-d9ac-3219-ba6b-9b01b1ceb3da,Bunny's Onion Burgers,1023 S Meridian Ave,,,Oklahoma City,OK,USA,73108,,35.454922,-97.601763,8a26c1899baffff,ed17e3a4-fded-3258-b9ee-5ab955d7c095
+e8a2f013-8a5d-38bb-bf9f-f212c3b449d1,Walgreens,280 SW Port St Lucie Blvd,,,Port Saint Lucie,FL,USA,34984,4001,27.2737,-80.354716,8a44a8c30427fff,8eec1cf5-856a-48d5-80f7-1251a86a427e
+84817302-87d0-3115-943c-bcdfec346d98,Walgreens,2625 Adlai Stevenson Dr,,,Springfield,IL,USA,62703,1770,39.758556,-89.617265,8a2644d50007fff,8eec1cf5-856a-48d5-80f7-1251a86a427e
+d78574e9-f126-3ef3-876f-564abc278461,Slow Hand BBQ,1941 Oak Park Blvd,,,Pleasant Hill,CA,USA,94523,,37.933447,-122.075461,8a2830c6c547fff,be5a2eec-90c7-354e-aeec-a95dcd763d55
+2085e66c-2ae5-3af7-ad33-00ca521b68b2,Walgreens,8521 Highway 107,,,Sherwood,AR,USA,72120,4017,34.83243,-92.232181,8a265b405457fff,8eec1cf5-856a-48d5-80f7-1251a86a427e
+337c5abe-8864-3709-b313-993dbbdc0dfc,Walgreens,18470 SW Farmington Rd,,,Beaverton,OR,USA,97007,15403,45.474961,-122.866888,8a28f0141697fff,8eec1cf5-856a-48d5-80f7-1251a86a427e
+4e136e58-e318-4bc3-ba50-a498fdf1a6b8,Aqua,902 Broadway,902 Broadway,,New York,NY,USA,10010,,40.73941049,-73.98954612,8a2a100d20c7fff,a8270b92-d1cd-4ecd-941b-b474e6354738
+db562069-acfb-36e8-98df-ecdefec3a356,Walgreens,5005 Mackay Rd,,,Jamestown,NC,USA,27282,15440,36.014578,-79.897667,8a2a8b70439ffff,8eec1cf5-856a-48d5-80f7-1251a86a427e
+2ee9863f-c962-3e96-9a2b-e100119f46fa,Shan A Punjab,500 Harvard St,,,Brookline,MA,USA,02446,,42.348031,-71.129546,8a2a30646a27fff,06ca1411-e644-34ac-acee-4094f1e3c35c
+cf221735-690b-3e52-8866-005cf1227154,Fish & Bird Sousaku Izakaya,2451 Shattuck Ave # NOT,2451 Shattuck Ave,# NOT,Berkeley,CA,USA,94704,,37.86484,-122.267151,8a28308a9d17fff,66ec4957-94ba-3524-85e3-bbb76213110a
+28141819-b3de-3d1a-bb83-13f69d2e06a5,Burger One of Ann Arbor,1771 Plymouth Rd Apt 102,1771 Plymouth Rd,Apt 102,Ann Arbor,MI,USA,48105,,42.298278,-83.719858,8a2ab259065ffff,922e74bc-5612-365f-9f9e-afd03d9bbe43
+5cc29421-e088-32ad-8be8-57581fa492e4,Humbowl,2975 College Ave # NOT,2975 College Ave,# NOT,Berkeley,CA,USA,94705,,37.856661,-122.252884,8a28308a8817fff,2a49bf01-2cf3-3315-834d-1d0abb775320
+0d153623-2fdd-31b8-b4e8-12edfde99379,Itaewon Pocha,28 W 32nd St Fl 2,28 W 32nd St,Fl 2,New York,NY,USA,10001,,40.747715,-73.987053,8a2a100d2c67fff,3e67bf10-ed52-316f-a785-7f32d8b66da7
+1fefba85-39da-3aa2-8870-c9dc9c674a64,Treva Restaurant & Bar,980 Farmington Ave,,,West Hartford,CT,USA,06107,,41.761577,-72.744301,8a2a1416d2dffff,a25b93e9-0e33-33d5-a132-47abb9e63120
+ff816a7c-5ac6-3f4f-9aef-c25be1a8c7ce,Walgreens,9998 Front Beach Rd,,,Panama City Beach,FL,USA,32407,5340,30.179208,-85.800306,8a44e554e9affff,8eec1cf5-856a-48d5-80f7-1251a86a427e
+274c31bf-b5d1-3c37-96eb-e8bf8c6ec7aa,Vino Italian Bistro,138 Battlefield Blvd S,,,Chesapeake,VA,USA,23322,,36.719079,-76.240126,8a2af6253297fff,ada335c2-c0ee-3898-9a7d-6b735d03b028
+0f6ae1dd-d950-37ab-9beb-c1230b1e5c49,Truboba Cafe,1900 University Blvd Ste 210,1900 University Blvd,Ste 210,Round Rock,TX,USA,78665,,30.572295,-97.653296,8a4898594827fff,c845c564-4168-307c-b2df-1c893d4ba45d
+5cc408ca-bd9d-3d13-8389-cc3fa0389ca1,Matsunori,151 Allen St,,,New York,NY,USA,10002,,40.720913,-73.989935,8a2a1072ca27fff,481944a0-addf-3959-aab4-f07c9efb8b6d
+9b361ca7-dc84-335a-b47e-d9fa59bb3e3a,Hamilton Luncheonette,606 Hamilton St,,,Somerset,NJ,USA,08873,,40.492795,-74.4686,8a2a13d22c6ffff,4b30d15f-7ee8-3deb-a26d-62d48eb67bad
+e7efc794-6491-388e-a6ee-65a3dfe47a67,Phoenicia Restaurant,588 S Old Woodward Ave,,,Birmingham,MI,USA,48009,,42.542625,-83.210633,8a2ab2d8d2dffff,4b02e1aa-f357-3df9-8d96-f8f0a074b484
+445df205-1e53-3fce-9625-3da9941bf976,Pinecrest Bakery Pinecrest,12101 S Dixie Hwy # Not,,,Pinecrest,FL,USA,33156,,25.658174,-80.327211,8a44a18e0917fff,5b925c7c-f3e7-366a-9d38-8382cd62954a
+1d236ecd-4412-3c60-b60f-9a45bbd0beba,Duane Reade by Walgreens,721 9th Ave,,,New York,NY,USA,10019,14239,40.763099,-73.989546,8a2a100d6497fff,c62ee40e-b7d8-3c76-a9e3-7a87f4625808
+0d27bb87-b4ca-3517-953c-ee5402c8eb55,Walgreens,1080 Bald Hill Rd,,,Warwick,RI,USA,02886,19838,41.709191,-71.490175,8a2a33073057fff,8eec1cf5-856a-48d5-80f7-1251a86a427e
+68241913-6227-31ac-af96-06aeba0c5d7a,Walgreens,940 SE Cesar E Chavez Blvd,,,Portland,OR,USA,97214,3890,45.516185,-122.621578,8a28f00302e7fff,8eec1cf5-856a-48d5-80f7-1251a86a427e
+835ae441-7c07-3f64-9075-0dc239377f86,Karahi Boys,16535 Lexington Blvd,,,Sugar Land,TX,USA,77479,,29.587498,-95.623999,8a446ca2198ffff,fa980e90-1c33-3772-911f-4a2b897183f3
+c85b0987-dd45-36a3-8642-bd2594674388,La Madeleine Pearland,11200 Broadway St,,,Pearland,TX,USA,77584,,29.553751,-95.393582,8a446cb9cd6ffff,fac1dc0c-67c8-3ef6-81a2-48a91d6f6528
+9b5c14ad-b4a4-3d83-a4b9-40c4927e4d76,Alpaca Peruvian Charcoal Chicken,4614 Capital Blvd,,,Raleigh,NC,USA,27604,,35.847698,-78.579747,8a2a896422f7fff,42b01592-0998-3e8c-b331-cdfdd7fe905f
+9cbdc4cf-2d02-308b-9d4c-b3829a6a8b68,Walgreens,H Ct,,,Grand Junction,CO,USA,81505,,43.169118,-88.103482,8a275d72d757fff,8eec1cf5-856a-48d5-80f7-1251a86a427e
+32475483-a917-39ec-aec4-857d16f222d3,El Pollo Loco,680 S E St,,,San Bernardino,CA,USA,92408,3842,34.088632,-117.294495,8a29a00e172ffff,ebfa2100-e241-30a9-86f7-4b810f83e59d
+922a52a3-fb6b-3c8e-999c-ba9c88a7922c,Casa Nova Grill,264 Ferry St,,,Newark,NJ,USA,07105,,40.72864391,-74.15282909,8a2a10711d1ffff,1e6bf4b2-f3c0-35d0-9429-659c29a05ad9
+1e16afd9-fc39-3f5d-8417-7fe3e2cbcb87,Aura Bar & Lounge,5247 Wisconsin Ave NW,,,Washington,DC,USA,20015,,38.958745,-77.084339,8a2aa84e1d17fff,32681d69-1505-3533-a184-83b0e1783ec7
+99255073-00aa-3fa9-ba0b-0221dca3f21b,Little River,440 E 29th St,,,New York,NY,USA,10016,,40.739423,-73.973637,8a2a100d2b5ffff,ba41ca66-b6e8-3bf6-886e-77f4fa646f83
+b0da3b75-33ad-351a-993a-9697e2244119,La Madeleine,10001 Westheimer Rd Ste 2123,10001 Westheimer Rd,Ste 2123,Houston,TX,USA,77042,1677,29.736359,-95.551935,8a446cae674ffff,fac1dc0c-67c8-3ef6-81a2-48a91d6f6528
+19019e06-4811-3fc7-9fc7-fa7236b3c542,Walgreens,4006 E Bell Rd,,,Phoenix,AZ,USA,85032,4951,33.641354,-111.995332,8a29b6d89087fff,8eec1cf5-856a-48d5-80f7-1251a86a427e
+50081a55-884f-347d-87e8-b52f0701af7d,Common Space Brewery,3411 W El Segundo Blvd,,,Hawthorne,CA,USA,90250,0014x000012ivIsAAI,33.916653,-118.333507,8a29a56e8d57fff,60fdff14-4a92-3d10-a704-b8c8b40e12a3
+1e2841bd-d4e1-3e81-b62e-fc7e63b81e8c,Walgreens,1196 Old Country Rd,,,Riverhead,NY,USA,11901,9496,40.93094,-72.681476,8a2a1546632ffff,8eec1cf5-856a-48d5-80f7-1251a86a427e
+dea21863-40f6-358e-a0e6-bc9cece9477c,Pizza Paradiso,1502 N Semoran Blvd,,,Orlando,FL,USA,32807,,28.56627,-81.311495,8a44a90e2107fff,036f8e80-e07c-3790-aecb-1366e7eb54cd
+a9ac867f-42ef-3c45-b1bc-df8a93f2cbd2,One Bite Cafe,1026 NE 65th St Ste A102,1026 NE 65th St,Ste A102,Seattle,WA,USA,98115,,47.675961,-122.316262,8a28d540c2dffff,f2db01de-21ce-3262-9849-a4ffa39064eb
+6b9f4c41-f9e0-3e8c-bc74-b4a5d2d4336b,Momoya SoHo,47 Prince St,,,New York,NY,USA,10012,,40.723578,-73.995746,8a2a1072c167fff,72e912c0-b197-3010-90fe-bdd82e0d862d
+f4cc87aa-f006-35f2-be53-d7c356b6e648,Walgreens,355 S Wilcox St,,,Castle Rock,CO,USA,80104,6987,39.366543,-104.862894,8a268c56130ffff,8eec1cf5-856a-48d5-80f7-1251a86a427e
+7ba2de8b-a241-3d15-adef-c1c91f468a2a,Prime On Peachtree,1029 Peachtree St NE,,,Atlanta,GA,USA,30339,,33.782784,-84.383806,8a44c1a8a977fff,3b28fc0a-f468-3ecb-8131-899eb0328be5
+7f10ccac-ad49-33ca-a891-a4aa1b37ba95,Walgreens,40420 Murrieta Hot Springs Rd,,,Murrieta,CA,USA,92563,1995,33.555722,-117.176906,8a29a0d69867fff,8eec1cf5-856a-48d5-80f7-1251a86a427e
+d1a7447e-4e37-3ca9-92c4-b06d8a96ba43,Shawarma King,2713 N Bremen St,,,Milwaukee,WI,USA,53212,,43.067715,-87.90054,8a275d39c4dffff,2463aba4-fa02-3ec3-be88-6ea1b1309c5f
+e69fc788-8cd9-3a34-bb3a-89a239809adf,Walgreens,3593 Cleveland Ave,,,Fort Myers,FL,USA,33901,2941,26.611228,-81.871167,8a4413764097fff,8eec1cf5-856a-48d5-80f7-1251a86a427e
+fae73add-421a-3958-978a-ee625fe8c537,Lemongrass Sushi and Thai,220 Veterans Pkwy,,,Murfreesboro,TN,USA,37128,,35.7869,-86.404131,8a264dadc4dffff,f6800cc7-0b05-3913-bf1b-79fdf3a6cb5f
+c3ef2e86-6409-3007-80e2-5d368bfc61b3,Poke Poke - Tampa,4740 N Dale Mabry Hwy,,,Tampa,FL,USA,33614,,27.9873,-82.505965,8a441a12082ffff,15c18d0b-34ef-3ff6-83f5-0074b3717c8d
